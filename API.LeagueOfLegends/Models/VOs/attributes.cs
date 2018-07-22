@@ -1,5 +1,7 @@
-namespace API.LeagueOfLegends.Models.VOs{
-    public sealed class Attributes{
+namespace API.LeagueOfLegends.Models.VOs
+{
+    public sealed class Attributes
+    {
         public Attributes(double health, double healthRegeneration, double attackDamage, double attackSpeed, double armor, double magicResistance, double movimentSpeed, double range)
         {
             Health = health;
