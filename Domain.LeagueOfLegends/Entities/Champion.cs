@@ -18,6 +18,7 @@ namespace Domain.LeagueOfLegends.Entities
         }
 
         public Guid Id { get; private set; }
+        public string Avatar { get; private set; }
         public string Name { get; private set; }
         public string NickName { get; private set; }
         public Attributes Statistics { get; private set; }
