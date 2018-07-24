@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.LeagueOfLegends", "API.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST.LeagueOfLegends", "TEST.LeagueOfLegends\TEST.LeagueOfLegends.csproj", "{925C996D-AE20-4A72-BB0E-3726A7B97F4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.LeagueOfLegends", "Domain.LeagueOfLegends\Domain.LeagueOfLegends.csproj", "{4EA37BF7-6E7D-4B88-B307-AC83EF155540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{925C996D-AE20-4A72-BB0E-3726A7B97F4A}.Release|x64.Build.0 = Release|Any CPU
 		{925C996D-AE20-4A72-BB0E-3726A7B97F4A}.Release|x86.ActiveCfg = Release|Any CPU
 		{925C996D-AE20-4A72-BB0E-3726A7B97F4A}.Release|x86.Build.0 = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|x64.Build.0 = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Debug|x86.Build.0 = Debug|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|x64.ActiveCfg = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|x64.Build.0 = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|x86.ActiveCfg = Release|Any CPU
+		{4EA37BF7-6E7D-4B88-B307-AC83EF155540}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

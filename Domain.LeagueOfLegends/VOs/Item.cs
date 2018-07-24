@@ -1,6 +1,6 @@
 using System;
 
-namespace API.LeagueOfLegends.Models.VOs
+namespace Domain.LeagueOfLegends.VOs
 {
     public class Item
     {

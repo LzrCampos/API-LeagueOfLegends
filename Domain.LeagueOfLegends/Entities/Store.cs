@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using API.LeagueOfLegends.Models.VOs;
+using Domain.LeagueOfLegends.VOs;
 
-namespace API.LeagueOfLegends.Models
+namespace Domain.LeagueOfLegends.Entities
 {
     public class Store
     {

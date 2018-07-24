@@ -1,4 +1,4 @@
-namespace API.LeagueOfLegends.Models.VOs
+namespace Domain.LeagueOfLegends.VOs
 {
     public sealed class Attributes
     {

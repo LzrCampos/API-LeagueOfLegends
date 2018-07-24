@@ -1,8 +1,8 @@
 using System;
-using API.LeagueOfLegends.Enums;
-using API.LeagueOfLegends.Models.VOs;
+using Domain.LeagueOfLegends.Enums;
+using Domain.LeagueOfLegends.VOs;
 
-namespace API.LeagueOfLegends.Models
+namespace Domain.LeagueOfLegends.Entities
 {
     public class Champion
     {

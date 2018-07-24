@@ -1,4 +1,4 @@
-namespace API.LeagueOfLegends.Enums
+namespace Domain.LeagueOfLegends.Enums
 {
     public enum RuneLevel{
         Level1 = 1,

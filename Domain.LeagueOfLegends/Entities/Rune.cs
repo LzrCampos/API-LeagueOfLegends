@@ -1,7 +1,8 @@
 using System;
-using API.LeagueOfLegends.Enums;
+using Domain.LeagueOfLegends.Enums;
 
-namespace API.LeagueOfLegends.Models{
+namespace Domain.LeagueOfLegends.Entities
+{
     public class Rune{
         public Rune(string name, RuneType type, RuneLevel level, string description)
         {
