@@ -20,8 +20,8 @@ namespace TEST.LeagueOfLegends
 
             runes.AddRune(rune1);
             runes.AddRune(rune2);
-            runes.AddRune(rune2);
-            runes.AddRune(rune1);
+            runes.AddRune(rune3);
+            runes.AddRune(rune4);
 
             Assert.True(runes.ListRunes.Count == 4);
 

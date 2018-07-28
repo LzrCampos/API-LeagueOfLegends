@@ -17,8 +17,8 @@ namespace Console.LeagueOfLegends
             var runes = new Runes();
 
             runes.AddRune(rune1);
-            runes.AddRune(rune2);
-            runes.AddRune(rune2);
+            runes.AddRune(rune1);
+            runes.AddRune(rune1);
             runes.AddRune(rune1);
 
             foreach(var r in runes.ListRunes){
